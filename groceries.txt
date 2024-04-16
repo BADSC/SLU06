@@ -1,0 +1,6 @@
+- butter
+- pasta
+- cheese
+- ham
+- bread
+- fruit
