@@ -4,3 +4,4 @@
 - ham
 - bread
 - fruit
+- olive oil
